@@ -21,7 +21,7 @@ public class LoginTest extends BaseTest{
         
      // Validation - Page title after login
         Assert.assertEquals(driver.getTitle().trim(),
-                "Swag Labs",
+                "Swag Labs11",
                 "Login Failed!");
     }
 	

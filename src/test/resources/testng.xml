@@ -2,7 +2,6 @@
 <suite name="SauceDemo Automation Suite" parallel="classes" thread-count="3">
   <listeners>
     <listener class-name="listeners.TestListener"/>
-    <listener class-name="listeners.RetryTransformer"/>
   </listeners>
   <test name="LoginTests">
     <classes>
