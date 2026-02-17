@@ -1,1 +1,3 @@
-update from local 
+new change added : stack learning in git . Use of stasj and when to use stash
+
+When you are modifying file and want to switch to diff branch without making commit , in this case use stash.
